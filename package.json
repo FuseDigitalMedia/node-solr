@@ -18,7 +18,7 @@
 , "main" : "lib/solr"
 , "repository" :
   { "type" : "git"
-  , "url" : "https://github.com/pabloviquez/node-solr.git"
+  , "url" : "https://github.com/FuseDigitalMedia/node-solr.git"
   }
 , "scripts" : { "test" : "find test/test-*.js | xargs -n 1 -t node" }
 }
